@@ -32,43 +32,10 @@ Here are some ideas to get you started:
 - 💬 **Ask me about anything** [here](https://github.com/Pter61/Pter61/issues).
 - 📫 **How to reach me**: [@Gmail](tangyuanmin6@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pter61&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-<table style="border:none;font-size:0.92em;">  
-  <tr>
-    <td style="border:none;" align="center" colspan=2>
-    <font style="font-size:25px"><strong> Github Stats </strong></font>
-    </td>
-  </tr>
-  <tr>
-  <td style="border:none;" align="center">
-  <img src="https://raw.githubusercontent.com/Pter61/github-stats-transparent/output/generated/overview.svg">
-  </td>
-  <td style="border:none;" align="center">
-  <img src="https://raw.githubusercontent.com/Pter61/github-stats-transparent/output/generated/languages.svg">
-  </td>
-  </tr>
-</table>
--->
-<!--
-<a href="https://clustrmaps.com/site/1br7l"  title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=_as-XkkjcXIuqsKpOhd8t-KNXdQFwAk9XjTptcKMNV8&cl=ffffff" /></a>
--->
-
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&theme=prussian" alt="Lin's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pter61&count_private=true&show_icons=true&hide=prs" />
 </a>
--->
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&bg_color=26,FFF3B0,97ABFF&icon_color=123597&title_color=3813C2&text_color=123597" alt="Lin's github stats" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pter61&layout=compact" />
 </a>
--->
-
-<!--
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=linwhitehat&layout=compact&theme=prussian" />
-  </a>
--->
