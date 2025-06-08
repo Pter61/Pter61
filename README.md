@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Vision-Language ALignment** and **Watermark**;
 - 😄 **Pronouns**: **Cross-Modal Sponsored Search**,  **Composed Image Retrieval** and **VLP Watermark**;
-- 📜 **Academic Profile**: [Homepage](https://pter61.github.io/)
+- 📜 **Academic Profile**: [Homepage](https://pter61.github.io/).
 - 💬 **Ask me about anything** [here](https://github.com/Pter61/Pter61/issues).
 - 📫 **How to reach me**: [@Gmail](tangyuanmin6@gmail.com)
 
